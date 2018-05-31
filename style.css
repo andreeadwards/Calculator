@@ -64,8 +64,8 @@ body {
   color: #fff;
   display: inline-block;
 }
-logo{
-  margin-left: 20px;
+#logo{
+  margin-left: 100px;
 }
 button {
   border-radius: 15px;
