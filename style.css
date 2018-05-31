@@ -64,7 +64,9 @@ body {
   color: #fff;
   display: inline-block;
 }
-
+logo{
+  margin-left: 20px;
+}
 button {
   border-radius: 15px;
   border: none;
